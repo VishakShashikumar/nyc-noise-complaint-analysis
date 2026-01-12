@@ -16,13 +16,14 @@ This project analyzes NYC 311 noise complaint data to identify spatial, temporal
 
 ## Project Structure
 
-NYC_noise Complaints/
-│
-├── Data/               # Raw and cleaned datasets
-├── Notebook/           # Jupyter notebook analysis
-├── Presentation/       # Final presentation slides
-├── Visuals/            # Charts, maps, and plots
-└── README.md           # Project documentation
+```text
+nyc-noise-complaint-analysis/
+├── Data/                 # (Not tracked) raw/cleaned datasets (excluded due to GitHub size limits)
+├── Notebook/             # Jupyter notebook analysis
+├── Presentation/         # Final presentation slides
+├── Visuals/              # Charts, maps, and plots used in the report
+├── .gitignore
+└── README.md
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
