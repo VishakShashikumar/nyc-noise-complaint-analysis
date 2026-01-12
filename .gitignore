@@ -1,0 +1,19 @@
+Data/*.csv
+Data/*.zip
+.DS_Store
+# Mac
+.DS_Store
+
+# Data (avoid huge files)
+Data/*.csv
+Data/*.zip
+Data/*.parquet
+Data/*.xlsx
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
