@@ -104,26 +104,3 @@ These hotspot zones represent **high-impact targets** for enforcement, outreach,
 ├── notebooks/        # Full data analysis & visualization
 ├── visuals/          # Key charts and maps
 ├── presentation/     # Executive presentation deck
-
-
-
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Geospatial & temporal analysis
-- Data visualization
-
-## Key Insights
-- Noise complaints peak during late evening and weekends
-- Certain boroughs consistently report higher complaint volumes
-- Construction and loud music are major complaint drivers
-
-## How to Run
-1. Navigate to the `Notebook` folder
-2. Open the Jupyter notebook
-3. Run cells sequentially to reproduce the analysis
-
-## Author
-**Vishak Shashikumar**  
-Master’s Student – Applied Machine Intelligence  
-Northeastern University
